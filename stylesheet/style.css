@@ -1096,6 +1096,10 @@ h4{
 .footer .small span{
     font-weight: 700;
 }
+.flex-nav{
+    display: flex;
+    
+}
 
 /* Top */
 .top{
